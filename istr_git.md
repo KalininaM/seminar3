@@ -1,4 +1,4 @@
 ## Инструкция по Git
 
-![Логотип Git](git_logo)
+![Логотип Git](git_logo.jpg)
 
