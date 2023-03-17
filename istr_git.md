@@ -66,6 +66,7 @@
     git branch
     
 ### **Удаление ветки**
+Ytye;yfz byajhvfwbz
 
 ### **Слияние двух веток**
 
